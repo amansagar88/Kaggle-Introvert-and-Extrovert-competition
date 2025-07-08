@@ -1,7 +1,8 @@
 # 🧠 Introvert vs Extrovert Personality Prediction
 
 Welcome to the Personality Prediction project!  
-In this notebook, we explore and model a dataset to distinguish between **Introverts** and **Extroverts** based on behavioral and social attributes using various **Machine Learning algorithms**.
+In this [notebook](https://github.com/amansagar88/Kaggle-Introvert-and-Extrovert-competition/blob/main/personality-prediction-with-eda-and-key-findings.ipynb), we explore and model a dataset to distinguish between **Introverts** and **Extroverts** based on behavioral and social attributes using various **Machine Learning algorithms**.
+[See Notebook](https://github.com/amansagar88/Kaggle-Introvert-and-Extrovert-competition/blob/main/personality-prediction-with-eda-and-key-findings.ipynb)
 
 ---
 
